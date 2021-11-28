@@ -1,0 +1,11 @@
+{
+ "name" : "PENGUIN METAVERSE"
+ "website": "https://www.penguinuniverse.games",
+ "description": "Penguin Metaverse is a game metaverse, players can play any type of game, which will start soon。",
+ "explorer": "https://bscscan.com/token/0x91fc60325D752c33D8EBEe9bCD52c789157B5Cd7",
+ "type": "BEP20",
+ "symbol": "PUIN",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x91fc60325D752c33D8EBEe9bCD52c789157B5Cd7"
+}
